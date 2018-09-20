@@ -1,0 +1,50 @@
+body { 
+    background-color: rgb(82, 69, 202);
+   }
+   h1{
+       color: yellow;
+       margin-left:30%;
+       margin-right: 10%;
+   li {
+       color: yellow;
+       font-size: 20px;
+       
+      
+   }
+   img{
+       height: 26%; 
+       margin-top: 50%;
+   }
+   #pix{ 
+      margin-right: 6%;
+   }
+   #pix2{
+       
+    margin-right: 6%;
+
+   }
+   #text{
+    margin-top: 18%;
+    margin-left: 15%;
+   }
+   #text2{
+       color: black;
+   }
+    .wrapper {
+        display: flex
+       
+    } 
+
+    .Toppart {
+       /* flex: 1; */
+
+    }
+    .Middlepart {
+        flex: 2;
+    }
+    .Bottompart {
+       flex:  3;
+    }
+
+    
+
